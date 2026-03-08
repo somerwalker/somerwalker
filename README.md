@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Somer Walker
 
-<!--
-**somerwalker/somerwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise program leader focused on turning complex technology initiatives into structured execution.
 
-Here are some ideas to get you started:
+My work sits at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI transformation
+- enterprise program governance
+- operational excellence
+- cross-team delivery at scale
+
+I have led large-scale infrastructure, cloud, and AI initiatives across global organizations, helping teams move from strategy to accountable delivery.
+
+---
+
+## Featured Work
+
+### AI Transformation Playbook
+A practical framework for operationalizing AI initiatives through structured intake, prioritization, governance, and delivery models.
+
+Repository:
+https://github.com/somerwalker/ai-transformation-playbook
+
+---
+
+## Areas of Interest
+
+- AI program governance
+- enterprise transformation
+- responsible AI implementation
+- operational delivery models
+- large-scale program leadership
+
+---
+
+## Connect
+
+LinkedIn  
+https://www.linkedin.com/in/somerwalker
