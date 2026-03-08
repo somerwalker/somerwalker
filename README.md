@@ -1,5 +1,11 @@
 # Hi, I'm Somer Walker
 
+# AI Transformation Playbook
+
+![AI Transformation](https://img.shields.io/badge/AI-Transformation-blue)
+![Program Governance](https://img.shields.io/badge/Program-Governance-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 Enterprise program leader focused on turning complex technology initiatives into structured execution.
 
 My work sits at the intersection of:
