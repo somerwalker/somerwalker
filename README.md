@@ -1,6 +1,7 @@
 # Hi, I'm Somer Walker
+Enterprise Program Leader | AI Transformation | Operational Excellence
 
-Enterprise program leader focused on turning complex technology initiatives into structured execution.
+I focus on turning complex technology initiatives into structured execution.
 
 My work sits at the intersection of:
 
@@ -16,14 +17,23 @@ I have led large-scale infrastructure, cloud, and AI initiatives across global o
 ## Featured Work
 
 ### AI Transformation Playbook
+
 ![AI Transformation](https://img.shields.io/badge/AI-Transformation-blue)
 ![Program Governance](https://img.shields.io/badge/Program-Governance-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A practical framework for operationalizing AI initiatives through structured intake, prioritization, governance, and delivery models.
+A practical framework for helping organizations operationalize AI initiatives through structured intake, prioritization, governance, and delivery models.
 
-Repository:
+🔗 Repository  
 https://github.com/somerwalker/ai-transformation-playbook
+
+---
+
+## Current Focus
+
+I am currently exploring practical frameworks for helping organizations move AI initiatives from experimentation to disciplined execution.
+
+This includes governance models, prioritization frameworks, and operational delivery structures that enable teams to implement AI responsibly and at scale.
 
 ---
 
@@ -41,3 +51,5 @@ https://github.com/somerwalker/ai-transformation-playbook
 
 LinkedIn  
 https://www.linkedin.com/in/somerwalker
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=somerwalker&show_icons=true)
