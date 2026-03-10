@@ -51,5 +51,3 @@ This includes governance models, prioritization frameworks, and operational deli
 
 LinkedIn  
 https://www.linkedin.com/in/somerwalker
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=somerwalker&show_icons=true)
