@@ -28,7 +28,57 @@ https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
-## Framework Modules
+## Transformation Operating Framework
+
+### Framework Diagram
+
+```mermaid
+flowchart TB
+
+subgraph Strategy
+A[Strategy to Execution]
+end
+
+subgraph Governance
+B[Enterprise Governance Toolkit]
+end
+
+subgraph Transformation
+C[Technology Transformation Patterns]
+D[AI Transformation Playbook]
+end
+
+subgraph Execution
+E[Program Execution OS]
+end
+
+subgraph Delivery
+F[Technical Program Management Toolkit]
+end
+
+A --> B
+B --> C
+C --> E
+E --> F
+
+C --> D
+D --> E
+```
+
+The framework aligns strategic intent with governance, transformation planning, execution systems, and delivery practices.
+
+```mermaid
+flowchart LR
+
+subgraph Shared_Enablers
+A[Enterprise Operating Model]
+B[Framework Glossary]
+end
+```
+
+These shared elements support the framework across all layers.
+
+### Layers
 
 • Strategy to Execution  
 https://github.com/somerwalker/strategy-to-execution
