@@ -1,4 +1,5 @@
 # Hi, I'm Somer Walker
+
 Enterprise Program Leader | AI Transformation | Operational Excellence
 
 I focus on turning complex technology initiatives into structured execution.
@@ -14,18 +15,41 @@ I have led large-scale infrastructure, cloud, and AI initiatives across global o
 
 ---
 
-## Featured Work
+## Transformation Operating Framework
 
-### AI Transformation Playbook
+I am the creator of the **Transformation Operating Framework**, a modular model for aligning strategy, governance, transformation initiatives, and program execution across complex organizations.
 
-![AI Transformation](https://img.shields.io/badge/AI-Transformation-blue)
-![Program Governance](https://img.shields.io/badge/Program-Governance-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+Framework architecture:
 
-A practical framework for helping organizations operationalize AI initiatives through structured intake, prioritization, governance, and delivery models.
+Strategy → Governance → Transformation → Execution → Delivery
 
-🔗 Repository  
+🔗 Framework Repository  
+https://github.com/somerwalker/transformation-operating-framework
+
+---
+
+## Framework Modules
+
+• Strategy to Execution  
+https://github.com/somerwalker/strategy-to-execution
+
+• Enterprise Governance Toolkit  
+https://github.com/somerwalker/enterprise-governance-toolkit
+
+• Technology Transformation Patterns  
+https://github.com/somerwalker/technology-transformation-patterns
+
+• AI Transformation Playbook  
 https://github.com/somerwalker/ai-transformation-playbook
+
+• Program Execution OS  
+https://github.com/somerwalker/program-execution-os
+
+• Technical Program Management Toolkit  
+https://github.com/somerwalker/technical-program-management-toolkit
+
+• Enterprise Operating Model  
+https://github.com/somerwalker/enterprise-operating-model
 
 ---
 
