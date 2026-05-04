@@ -32,7 +32,7 @@ https://github.com/somerwalker/transformation-operating-framework
 
 ### Framework Diagram
 
-![Image of the Transformation Operating Framework](https://github.com/somerwalker/somerwalker/blob/main/Transformation%20Operating%20Framework%20Graphic.png)
+![Image of the Transformation Operating Framework](https://github.com/somerwalker/somerwalker/blob/main/images/Transformation%20Operating%20Framework%20Graphic.png)
 
 The framework aligns strategic intent with governance, transformation planning, execution systems, and delivery practices.
 
